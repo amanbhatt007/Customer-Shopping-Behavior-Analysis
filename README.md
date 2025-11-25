@@ -92,8 +92,22 @@ Final Report: The complete report was saved as the <a href="https://github.com/a
 
 
 ## Project Insights
+- Total Purchase Amount: $201,414
+- Total Items Purchased: 3,800
+- Average Purchase Amount: $53.00
+- Average Review Rating: 3.71
+- Gender Distribution: Female customers (67.95%) significantly outnumber Male customers (32.05%).
+- Top 3 Locations by Purchase Amount: Montana, California, and Idaho are the leading states for revenue.
+- Frequency of Purchases: Annually is the most common purchase frequency, followed by Quarterly and Bi-Weekly.
+- Top 5 Items Purchased: Dress, Blouse, T-Shirt, Sweater, and Pants. (A specific quantity bar chart shows this distribution).
+- Top Category by Purchase Amount: Clothing is the dominant category for sales, followed by Accessories and Footwear.
+- Season by Purchase Amount: Winter appears to be the most revenue-generating season, followed closely by Fall.
+- Average Review Rating by Discount Applied: Transactions without a discount have a slightly higher average rating (e.g., ~3.75) than those with a discount (e.g., ~3.68), suggesting discount hunters may be less satisfied or less loyal.
+- Top Payment Method by Purchase Count: PayPal and Credit Card are the most frequently used methods by customers.
+- Promo Code Used vs. Purchase Amount: There seems to be a significant difference (likely higher) in average purchase amount when a Promo Code is Used, indicating codes encourage larger basket sizes.
 
 
-
-
+## Final Conclusion
+This project successfully analyzed the shopping_behavior_updated.csv dataset, transforming raw transactional data into actionable insights via a robust Power BI dashboard. The analysis revealed key patterns across customer demographics, product performance, and promotional effectiveness.
+The <a href="https://github.com/amanbhatt007/Customer-Shopping-Behavior-Analysis/blob/main/Project%202(kaggle).pbix">Customer Shopping Behavior Dataset</a> dashboard serves as a single source of truth for tracking essential KPIs, allowing stakeholders to easily monitor revenue, spending trends, and customer satisfaction. The visualizations provide a clear, data-driven foundation for optimizing inventory, targeting marketing spend, and enhancing the overall customer experience.
 
