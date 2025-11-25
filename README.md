@@ -109,5 +109,5 @@ Final Report: The complete report was saved as the <a href="https://github.com/a
 
 ## Final Conclusion
 This project successfully analyzed the shopping_behavior_updated.csv dataset, transforming raw transactional data into actionable insights via a robust Power BI dashboard. The analysis revealed key patterns across customer demographics, product performance, and promotional effectiveness.
-The <a href="https://github.com/amanbhatt007/Customer-Shopping-Behavior-Analysis/blob/main/Project%202(kaggle).pbix">Customer Shopping Behavior Dataset</a> dashboard serves as a single source of truth for tracking essential KPIs, allowing stakeholders to easily monitor revenue, spending trends, and customer satisfaction. The visualizations provide a clear, data-driven foundation for optimizing inventory, targeting marketing spend, and enhancing the overall customer experience.
+The <a href="https://github.com/amanbhatt007/Customer-Shopping-Behavior-Analysis/blob/main/Project%202(kaggle).pbix">Customer Shopping Behavior</a> dashboard serves as a single source of truth for tracking essential KPIs, allowing stakeholders to easily monitor revenue, spending trends, and customer satisfaction. The visualizations provide a clear, data-driven foundation for optimizing inventory, targeting marketing spend, and enhancing the overall customer experience.
 
