@@ -32,6 +32,9 @@ Extract Raw Data: The <a href="https://github.com/amanbhatt007/Customer-Shopping
 
 Initial Load to Excel: The raw CSV data was opened and imported into Microsoft Excel, making it the staging area for all subsequent cleaning and preparation.
 
+<img width="1602" height="942" alt="Raw Data" src="https://github.com/user-attachments/assets/3dae2747-c442-44c6-be59-3e1d1563e699" />
+
+
 Phase 2: Transform (Data Cleaning and Preparation in Excel) ⚙️
 This phase ensures data quality and structure are optimal before being loaded into Power BI. All transformations were performed using Excel's built-in tools and functions.
 
